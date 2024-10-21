@@ -1,5 +1,5 @@
-<h1 align="center">МОЁ ПОРТФОЛИО
-<h1 align="center">Иcаев Иван Владимирович
+
+<h1 align="center">ИСАЕВ ИВАН ВЛАДИМИРОВИЧ
 </h1>
 <table>
   <tbody>
